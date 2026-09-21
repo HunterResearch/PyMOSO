@@ -1,3 +1,6 @@
+THIS CODE IS NOW ARCHIVED. FOR THE LATEST PYMOSO DEVELOPMENT GO TO https://github.com/pymoso/PyMOSO. 
+
+
 # PyMOSO
 
 PyMOSO is software for solving multi-objective simulation optimization (MOSO) problems and for creating, comparing, and testing MOSO algorithms.
